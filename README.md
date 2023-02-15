@@ -16,5 +16,6 @@ BOTA DAİR GÖRSELLER AŞAĞIDA VARDIR DETAYLARI DAHA ÇOK PAYLAŞILACAKTIR.
 ![image](https://user-images.githubusercontent.com/117843883/219046644-7682dcc4-9099-4155-9fcb-55142074844d.png)
 ![image](https://user-images.githubusercontent.com/117843883/219046693-933c7e80-7b3f-4a79-825a-262943c4f747.png)
 ![image](https://user-images.githubusercontent.com/117843883/219046769-e2346f2b-a86a-4d89-8b83-7f0264def290.png)
+![image](https://user-images.githubusercontent.com/117843883/219174707-1a1f6697-3527-4803-a8ef-c1c918f5e451.png)
 
 

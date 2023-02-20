@@ -1,7 +1,7 @@
 # luis-all-bots
 ÖZEL BOT İÇİN luîs#0022 - 727342003339395146 İLE İLETİŞİME GEÇİNİZ.
 
-BOTLARIM 1 MODERASYON 1 YÖNETİM 1 STAT 1 EVENTS 2 GUARD 2 BACKUP ŞEKLİNDE AYARLANMIŞTIR.
+BOTLARIM 1 MODERASYON 1 YÖNETİM 1 STAT 1 AUDİT 2 GUARD 2 BACKUP ŞEKLİNDE AYARLANMIŞTIR.
 100 START GELDİĞİNDE ATICAM 
 BOTA DAİR GÖRSELLER AŞAĞIDA VARDIR DETAYLARI DAHA ÇOK PAYLAŞILACAKTIR.
  
@@ -18,4 +18,9 @@ BOTA DAİR GÖRSELLER AŞAĞIDA VARDIR DETAYLARI DAHA ÇOK PAYLAŞILACAKTIR.
 ![image](https://user-images.githubusercontent.com/117843883/219046769-e2346f2b-a86a-4d89-8b83-7f0264def290.png)
 ![image](https://user-images.githubusercontent.com/117843883/219174707-1a1f6697-3527-4803-a8ef-c1c918f5e451.png)
 
+STAT BOTU GÖRSELLER
+
+![image](https://user-images.githubusercontent.com/117843883/220190273-bdfa8d66-43e3-4ffc-950f-50b1f9f49ef0.png)
+![image](https://user-images.githubusercontent.com/117843883/220190615-88fde1bb-ea64-492c-95df-ac83dd35bcac.png)
+![image](https://user-images.githubusercontent.com/117843883/220190670-7863c7a2-eba9-483f-823e-45421475ef1b.png)
 
